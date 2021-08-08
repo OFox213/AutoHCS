@@ -3,6 +3,11 @@
 # AutoHCS
 JAVA 기반의 안드로이드 건강상태자가진단 설문 모듈
 
+## 필요한 라이브러리
+```txt
+https://github.com/google/volley
+```
+
 ## 사용방법
 ```txt
   public void encryptProfile(...){ ... ~  private void registerSurvey(...){ ... } 부분까지 사용해야합니다.
