@@ -1,4 +1,4 @@
-[![Licence](https://img.shields.io/badge/License-"GPL-V3"-lightgray)]
+[![Licence](https://img.shields.io/badge/License-GPLV3.0-lightgray)]
 
 
 # AutoHCS
